@@ -1,0 +1,495 @@
+{
+  "file": "DSC00023-Enhanced-NR.dng",
+  "bytes": 69941042,
+  "sha256": "a224cf0caf608772fd5c1226766a11012af0f810a435c5a254ee483c1442c78d",
+  "ifds": [
+    {
+      "ifd": "IFD0",
+      "tags": {
+        "NewSubfileType": [
+          1
+        ],
+        "ImageWidth": [
+          256
+        ],
+        "ImageLength": [
+          171
+        ],
+        "BitsPerSample": [
+          8,
+          8,
+          8
+        ],
+        "Compression": [
+          1
+        ],
+        "PhotometricInterpretation": [
+          2
+        ],
+        "Orientation": [
+          1
+        ],
+        "SamplesPerPixel": [
+          3
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "DNGVersion": [
+          1,
+          7,
+          0,
+          0
+        ],
+        "DNGBackwardVersion": [
+          1,
+          3,
+          0,
+          0
+        ],
+        "UniqueCameraModel": "Sony ILCE-7RM3",
+        "ColorMatrix1": [
+          "7683/10000",
+          "-3276/10000",
+          "299/10000",
+          "-3630/10000",
+          "10892/10000",
+          "3161/10000",
+          "-162/10000",
+          "671/10000",
+          "7133/10000"
+        ],
+        "ColorMatrix2": [
+          "6640/10000",
+          "-1847/10000",
+          "-503/10000",
+          "-5238/10000",
+          "13010/10000",
+          "2474/10000",
+          "-993/10000",
+          "1673/10000",
+          "6527/10000"
+        ],
+        "CameraCalibration1": [
+          "9952/10000",
+          "0/10000",
+          "0/10000",
+          "0/10000",
+          "10000/10000",
+          "0/10000",
+          "0/10000",
+          "0/10000",
+          "10198/10000"
+        ],
+        "CameraCalibration2": [
+          "9952/10000",
+          "0/10000",
+          "0/10000",
+          "0/10000",
+          "10000/10000",
+          "0/10000",
+          "0/10000",
+          "0/10000",
+          "10198/10000"
+        ],
+        "AsShotNeutral": [
+          "364154/1000000",
+          "1000000/1000000",
+          "768769/1000000"
+        ],
+        "BaselineExposure": [
+          "15/100"
+        ],
+        "CalibrationIlluminant1": [
+          17
+        ],
+        "CalibrationIlluminant2": [
+          21
+        ],
+        "ProfileName": "Adobe Standard",
+        "ProfileHueSatMapDims": [
+          90,
+          30,
+          1
+        ],
+        "ProfileHueSatMapData1": {
+          "count": 8100,
+          "bytes": 32400
+        },
+        "ProfileHueSatMapData2": {
+          "count": 8100,
+          "bytes": 32400
+        },
+        "ForwardMatrix1": [
+          "5135/10000",
+          "3089/10000",
+          "1418/10000",
+          "2384/10000",
+          "7198/10000",
+          "418/10000",
+          "973/10000",
+          "2/10000",
+          "7276/10000"
+        ],
+        "ForwardMatrix2": [
+          "5493/10000",
+          "2579/10000",
+          "1572/10000",
+          "3238/10000",
+          "6280/10000",
+          "482/10000",
+          "1544/10000",
+          "6/10000",
+          "6701/10000"
+        ],
+        "PreviewColorSpace": [
+          2
+        ],
+        "ProfileLookTableDims": [
+          36,
+          8,
+          16
+        ],
+        "ProfileLookTableData": {
+          "count": 13824,
+          "bytes": 55296
+        }
+      }
+    },
+    {
+      "ifd": "IFD0/SubIFD0",
+      "tags": {
+        "NewSubfileType": [
+          0
+        ],
+        "ImageWidth": [
+          8000
+        ],
+        "ImageLength": [
+          5320
+        ],
+        "BitsPerSample": [
+          16
+        ],
+        "Compression": [
+          7
+        ],
+        "PhotometricInterpretation": [
+          32803
+        ],
+        "SamplesPerPixel": [
+          1
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "TileWidth": [
+          256
+        ],
+        "TileLength": [
+          256
+        ],
+        "CFARepeatPatternDim": [
+          2,
+          2
+        ],
+        "CFAPattern": [
+          0,
+          1,
+          1,
+          2
+        ],
+        "BlackLevelRepeatDim": [
+          2,
+          2
+        ],
+        "BlackLevel": [
+          "131072/256",
+          "131072/256",
+          "131072/256",
+          "131072/256"
+        ],
+        "WhiteLevel": [
+          16383
+        ],
+        "DefaultCropOrigin": [
+          "8/1",
+          "8/1"
+        ],
+        "DefaultCropSize": [
+          "7952/1",
+          "5304/1"
+        ],
+        "ActiveArea": [
+          0,
+          0,
+          5320,
+          8000
+        ],
+        "OpcodeList3": {
+          "count": 184,
+          "bytes": 184
+        }
+      }
+    },
+    {
+      "ifd": "IFD0/SubIFD1",
+      "tags": {
+        "NewSubfileType": [
+          16
+        ],
+        "ImageWidth": [
+          8000
+        ],
+        "ImageLength": [
+          5320
+        ],
+        "BitsPerSample": [
+          16,
+          16,
+          16
+        ],
+        "Compression": [
+          52546
+        ],
+        "PhotometricInterpretation": [
+          34892
+        ],
+        "SamplesPerPixel": [
+          3
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "TileWidth": [
+          400
+        ],
+        "TileLength": [
+          416
+        ],
+        "BlackLevel": [
+          2048,
+          2048,
+          2048
+        ],
+        "JXLDistance": [
+          0.009999999776482582
+        ],
+        "JXLEffort": [
+          7
+        ],
+        "JXLDecodeSpeed": [
+          4
+        ]
+      }
+    },
+    {
+      "ifd": "IFD0/SubIFD2",
+      "tags": {
+        "NewSubfileType": [
+          1
+        ],
+        "ImageWidth": [
+          1024
+        ],
+        "ImageLength": [
+          683
+        ],
+        "BitsPerSample": [
+          8,
+          8,
+          8
+        ],
+        "Compression": [
+          7
+        ],
+        "PhotometricInterpretation": [
+          6
+        ],
+        "SamplesPerPixel": [
+          3
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "PreviewColorSpace": [
+          2
+        ]
+      }
+    },
+    {
+      "ifd": "IFD0/SubIFD3",
+      "tags": {
+        "NewSubfileType": [
+          1
+        ],
+        "ImageWidth": [
+          2048
+        ],
+        "ImageLength": [
+          1366
+        ],
+        "BitsPerSample": [
+          16,
+          16,
+          16
+        ],
+        "Compression": [
+          52546
+        ],
+        "PhotometricInterpretation": [
+          34892
+        ],
+        "SamplesPerPixel": [
+          3
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "TileWidth": [
+          352
+        ],
+        "TileLength": [
+          352
+        ],
+        "OpcodeList2": {
+          "count": 256,
+          "bytes": 256
+        },
+        "JXLDistance": [
+          1.0
+        ],
+        "JXLEffort": [
+          7
+        ],
+        "JXLDecodeSpeed": [
+          4
+        ]
+      }
+    },
+    {
+      "ifd": "IFD0/SubIFD4",
+      "tags": {
+        "NewSubfileType": [
+          1
+        ],
+        "ImageWidth": [
+          512
+        ],
+        "ImageLength": [
+          342
+        ],
+        "BitsPerSample": [
+          16,
+          16,
+          16
+        ],
+        "Compression": [
+          52546
+        ],
+        "PhotometricInterpretation": [
+          34892
+        ],
+        "SamplesPerPixel": [
+          3
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "TileWidth": [
+          256
+        ],
+        "TileLength": [
+          342
+        ],
+        "OpcodeList2": {
+          "count": 256,
+          "bytes": 256
+        },
+        "JXLDistance": [
+          1.0
+        ],
+        "JXLEffort": [
+          7
+        ],
+        "JXLDecodeSpeed": [
+          4
+        ]
+      }
+    },
+    {
+      "ifd": "IFD0/SubIFD5",
+      "tags": {
+        "NewSubfileType": [
+          1
+        ],
+        "ImageWidth": [
+          256
+        ],
+        "ImageLength": [
+          171
+        ],
+        "BitsPerSample": [
+          16,
+          16,
+          16
+        ],
+        "Compression": [
+          52546
+        ],
+        "PhotometricInterpretation": [
+          34892
+        ],
+        "SamplesPerPixel": [
+          3
+        ],
+        "PlanarConfiguration": [
+          1
+        ],
+        "TileWidth": [
+          256
+        ],
+        "TileLength": [
+          171
+        ],
+        "BlackLevel": [
+          "4307/1",
+          "0/1",
+          "0/1"
+        ],
+        "OpcodeList2": {
+          "count": 256,
+          "bytes": 256
+        },
+        "JXLDistance": [
+          1.0
+        ],
+        "JXLEffort": [
+          7
+        ],
+        "JXLDecodeSpeed": [
+          4
+        ]
+      }
+    }
+  ],
+  "developMetadata": {
+    "WhiteBalance": "As Shot",
+    "Temperature": "6700",
+    "Tint": "+5",
+    "Exposure2012": "+0.61",
+    "Contrast2012": "+6",
+    "Highlights2012": "-68",
+    "Shadows2012": "+72",
+    "Whites2012": "+14",
+    "Blacks2012": "-20",
+    "Vibrance": "+8",
+    "Saturation": "0",
+    "LensProfileEnable": "1",
+    "HDREditMode": "0",
+    "CameraProfile": "Adobe Standard",
+    "HasSettings": "True",
+    "HasCrop": "False",
+    "AlreadyApplied": "False"
+  }
+}

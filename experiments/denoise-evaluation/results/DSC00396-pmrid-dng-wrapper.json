@@ -1,0 +1,15 @@
+{
+  "file": "DSC00396-pmrid.dng",
+  "template": "DSC00396-Enhanced-NR.dng",
+  "payload": "denoised CFA mosaic",
+  "black": 8192,
+  "white": 40960,
+  "scale": 32768,
+  "minimum": -0.03399963304400444,
+  "maximum": 1.0849285125732422,
+  "clippedSamples": 0,
+  "compression": "none",
+  "note": "Research copy: source opcodes omitted; unused original payloads remain. Not a conformance-validated exporter.",
+  "idealQuantizationHalfStep": 1.52587890625e-05,
+  "measuredMaxQuantizationError": 1.531839370727539e-05
+}

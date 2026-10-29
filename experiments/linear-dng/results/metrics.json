@@ -1,0 +1,752 @@
+[
+  {
+    "file" : "chart_output-icc.dng",
+    "imageIO" : {
+      "mae8" : 8.7174479166666661,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.745949074074076,
+      "rmse8" : 24.829403468878795
+    },
+    "imageIOSize" : [
+      768,
+      384
+    ],
+    "rawBoostOff" : {
+      "mae8" : 8.571325231481481,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 23.365162037037038,
+      "rmse8" : 24.954573891410206
+    },
+    "rawDefault" : {
+      "mae8" : 8.7161458333333339,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.61574074074074,
+      "rmse8" : 24.9089371604443
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.82118055555555558,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 20.399305555555554,
+      "rmse8" : 2.4546229060919136
+    },
+    "rawNeutral" : {
+      "mae8" : 0.44270833333333331,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 3.6892361111111112,
+      "rmse8" : 2.3048861143232218
+    }
+  },
+  {
+    "file" : "chart_output-neutral.dng",
+    "imageIO" : {
+      "mae8" : 8.7174479166666661,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.745949074074076,
+      "rmse8" : 24.829403468878795
+    },
+    "imageIOSize" : [
+      768,
+      384
+    ],
+    "rawBoostOff" : {
+      "mae8" : 8.571325231481481,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 23.365162037037038,
+      "rmse8" : 24.954573891410206
+    },
+    "rawDefault" : {
+      "mae8" : 8.7161458333333339,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.61574074074074,
+      "rmse8" : 24.9089371604443
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.82118055555555558,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 20.399305555555554,
+      "rmse8" : 2.4546229060919136
+    },
+    "rawNeutral" : {
+      "mae8" : 0.44270833333333331,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 3.6892361111111112,
+      "rmse8" : 2.3048861143232218
+    }
+  },
+  {
+    "file" : "chart_output-no-forward.dng",
+    "imageIO" : {
+      "mae8" : 8.7174479166666661,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.745949074074076,
+      "rmse8" : 24.829403468878795
+    },
+    "imageIOSize" : [
+      768,
+      384
+    ],
+    "rawBoostOff" : {
+      "mae8" : 8.571325231481481,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 23.365162037037038,
+      "rmse8" : 24.954573891410206
+    },
+    "rawDefault" : {
+      "mae8" : 8.7161458333333339,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.61574074074074,
+      "rmse8" : 24.9089371604443
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.82118055555555558,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 20.399305555555554,
+      "rmse8" : 2.4546229060919136
+    },
+    "rawNeutral" : {
+      "mae8" : 0.44270833333333331,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 3.6892361111111112,
+      "rmse8" : 2.3048861143232218
+    }
+  },
+  {
+    "file" : "chart_scene-default.dng",
+    "imageIO" : {
+      "mae8" : 25.728587962962962,
+      "max8" : 176,
+      "p99_8" : 176,
+      "percentChannelsOver1" : 72.960069444444443,
+      "rmse8" : 42.804329782723478
+    },
+    "imageIOSize" : [
+      768,
+      384
+    ],
+    "rawBoostOff" : {
+      "mae8" : 9.2916666666666661,
+      "max8" : 118,
+      "p99_8" : 118,
+      "percentChannelsOver1" : 48.538773148148145,
+      "rmse8" : 24.764580207836563
+    },
+    "rawDefault" : {
+      "mae8" : 25.556423611111111,
+      "max8" : 176,
+      "p99_8" : 176,
+      "percentChannelsOver1" : 72.960069444444443,
+      "rmse8" : 42.630450667029947
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 19.55541087962963,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 60.662615740740748,
+      "rmse8" : 30.914787772347058
+    },
+    "rawNeutral" : {
+      "mae8" : 1.7161458333333333,
+      "max8" : 16,
+      "p99_8" : 13,
+      "percentChannelsOver1" : 28.862847222222221,
+      "rmse8" : 3.5044614422190468
+    }
+  },
+  {
+    "file" : "chart_scene-neutral.dng",
+    "imageIO" : {
+      "mae8" : 8.7297453703703702,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.745949074074076,
+      "rmse8" : 24.850443862941063
+    },
+    "imageIOSize" : [
+      768,
+      384
+    ],
+    "rawBoostOff" : {
+      "mae8" : 8.571325231481481,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 23.365162037037038,
+      "rmse8" : 24.954573891410206
+    },
+    "rawDefault" : {
+      "mae8" : 8.7038483796296298,
+      "max8" : 119,
+      "p99_8" : 119,
+      "percentChannelsOver1" : 37.61574074074074,
+      "rmse8" : 24.866690288006357
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.82118055555555558,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 20.399305555555554,
+      "rmse8" : 2.4546229060919136
+    },
+    "rawNeutral" : {
+      "mae8" : 0.44270833333333331,
+      "max8" : 12,
+      "p99_8" : 12,
+      "percentChannelsOver1" : 3.6892361111111112,
+      "rmse8" : 2.3048861143232218
+    }
+  },
+  {
+    "file" : "developed-default_output-icc.dng",
+    "imageIO" : {
+      "mae8" : 0.92680347222222226,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.696319444444441,
+      "rmse8" : 1.4167914160760102
+    },
+    "imageIOSize" : [
+      1200,
+      800
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.054505555555555557,
+      "max8" : 64,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.70586805555555554,
+      "rmse8" : 0.43751190459993966
+    },
+    "rawDefault" : {
+      "mae8" : 0.906534375,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.334097222222219,
+      "rmse8" : 1.4038383641921808
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.89700277777777782,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.217395833333335,
+      "rmse8" : 1.3918814704484639
+    },
+    "rawNeutral" : {
+      "mae8" : 0.0441625,
+      "max8" : 19,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.57184027777777779,
+      "rmse8" : 0.3921025942842567
+    }
+  },
+  {
+    "file" : "developed-default_output-neutral.dng",
+    "imageIO" : {
+      "mae8" : 0.92680347222222226,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.696319444444441,
+      "rmse8" : 1.4167914160760102
+    },
+    "imageIOSize" : [
+      1200,
+      800
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.054505555555555557,
+      "max8" : 64,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.70586805555555554,
+      "rmse8" : 0.43751190459993966
+    },
+    "rawDefault" : {
+      "mae8" : 0.906534375,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.334097222222219,
+      "rmse8" : 1.4038383641921808
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.89700277777777782,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.217395833333335,
+      "rmse8" : 1.3918814704484639
+    },
+    "rawNeutral" : {
+      "mae8" : 0.0441625,
+      "max8" : 19,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.57184027777777779,
+      "rmse8" : 0.3921025942842567
+    }
+  },
+  {
+    "file" : "developed-default_output-no-forward.dng",
+    "imageIO" : {
+      "mae8" : 0.92680347222222226,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.696319444444441,
+      "rmse8" : 1.4167914160760102
+    },
+    "imageIOSize" : [
+      1200,
+      800
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.054505555555555557,
+      "max8" : 64,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.70586805555555554,
+      "rmse8" : 0.43751190459993966
+    },
+    "rawDefault" : {
+      "mae8" : 0.906534375,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.334097222222219,
+      "rmse8" : 1.4038383641921808
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.89700277777777782,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.217395833333335,
+      "rmse8" : 1.3918814704484639
+    },
+    "rawNeutral" : {
+      "mae8" : 0.0441625,
+      "max8" : 19,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.57184027777777779,
+      "rmse8" : 0.3921025942842567
+    }
+  },
+  {
+    "file" : "developed-default_scene-default.dng",
+    "imageIO" : {
+      "mae8" : 23.622701388888888,
+      "max8" : 79,
+      "p99_8" : 54,
+      "percentChannelsOver1" : 89.286979166666669,
+      "rmse8" : 30.282566388655592
+    },
+    "imageIOSize" : [
+      1200,
+      800
+    ],
+    "rawBoostOff" : {
+      "mae8" : 3.221197222222222,
+      "max8" : 62,
+      "p99_8" : 15,
+      "percentChannelsOver1" : 65.046041666666667,
+      "rmse8" : 4.4998013845057656
+    },
+    "rawDefault" : {
+      "mae8" : 23.622330208333334,
+      "max8" : 79,
+      "p99_8" : 54,
+      "percentChannelsOver1" : 89.287499999999994,
+      "rmse8" : 30.282274363478713
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 23.789488541666667,
+      "max8" : 64,
+      "p99_8" : 54,
+      "percentChannelsOver1" : 89.486215277777774,
+      "rmse8" : 30.339814835231131
+    },
+    "rawNeutral" : {
+      "mae8" : 3.3894107638888888,
+      "max8" : 19,
+      "p99_8" : 15,
+      "percentChannelsOver1" : 64.709756944444436,
+      "rmse8" : 4.7924567826834794
+    }
+  },
+  {
+    "file" : "developed-default_scene-neutral.dng",
+    "imageIO" : {
+      "mae8" : 0.9375496527777778,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.91149305555556,
+      "rmse8" : 1.4257112016658757
+    },
+    "imageIOSize" : [
+      1200,
+      800
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.055350694444444445,
+      "max8" : 64,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.71902777777777782,
+      "rmse8" : 0.42689691053253387
+    },
+    "rawDefault" : {
+      "mae8" : 0.9127777777777778,
+      "max8" : 63,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.558298611111113,
+      "rmse8" : 1.4074837180822615
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.90245624999999996,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 33.438055555555557,
+      "rmse8" : 1.3952230008934852
+    },
+    "rawNeutral" : {
+      "mae8" : 0.044200000000000003,
+      "max8" : 19,
+      "p99_8" : 1,
+      "percentChannelsOver1" : 0.58163194444444444,
+      "rmse8" : 0.37895506916314559
+    }
+  },
+  {
+    "file" : "developed-edited_output-icc.dng",
+    "imageIO" : {
+      "mae8" : 0.86208333333333331,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.334876543209873,
+      "rmse8" : 1.5774412175270069
+    },
+    "imageIOSize" : [
+      720,
+      960
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.13779369212962964,
+      "max8" : 60,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 2.3156346450617282,
+      "rmse8" : 0.79686070248611629
+    },
+    "rawDefault" : {
+      "mae8" : 0.84432725694444444,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.080343364197528,
+      "rmse8" : 1.5677690479814437
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.80489728009259254,
+      "max8" : 19,
+      "p99_8" : 5,
+      "percentChannelsOver1" : 26.44193672839506,
+      "rmse8" : 1.4896354562235259
+    },
+    "rawNeutral" : {
+      "mae8" : 0.095162519290123454,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 1.5991030092592593,
+      "rmse8" : 0.61407386290652222
+    }
+  },
+  {
+    "file" : "developed-edited_output-neutral.dng",
+    "imageIO" : {
+      "mae8" : 0.86208333333333331,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.334876543209873,
+      "rmse8" : 1.5774412175270069
+    },
+    "imageIOSize" : [
+      720,
+      960
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.13779369212962964,
+      "max8" : 60,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 2.3156346450617282,
+      "rmse8" : 0.79686070248611629
+    },
+    "rawDefault" : {
+      "mae8" : 0.84432725694444444,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.080343364197528,
+      "rmse8" : 1.5677690479814437
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.80489728009259254,
+      "max8" : 19,
+      "p99_8" : 5,
+      "percentChannelsOver1" : 26.44193672839506,
+      "rmse8" : 1.4896354562235259
+    },
+    "rawNeutral" : {
+      "mae8" : 0.095162519290123454,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 1.5991030092592593,
+      "rmse8" : 0.61407386290652222
+    }
+  },
+  {
+    "file" : "developed-edited_output-no-forward.dng",
+    "imageIO" : {
+      "mae8" : 0.86208333333333331,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.334876543209873,
+      "rmse8" : 1.5774412175270069
+    },
+    "imageIOSize" : [
+      720,
+      960
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.13779369212962964,
+      "max8" : 60,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 2.3156346450617282,
+      "rmse8" : 0.79686070248611629
+    },
+    "rawDefault" : {
+      "mae8" : 0.84432725694444444,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.080343364197528,
+      "rmse8" : 1.5677690479814437
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.80489728009259254,
+      "max8" : 19,
+      "p99_8" : 5,
+      "percentChannelsOver1" : 26.44193672839506,
+      "rmse8" : 1.4896354562235259
+    },
+    "rawNeutral" : {
+      "mae8" : 0.095162519290123454,
+      "max8" : 19,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 1.5991030092592593,
+      "rmse8" : 0.61407386290652222
+    }
+  },
+  {
+    "file" : "developed-edited_scene-default.dng",
+    "imageIO" : {
+      "mae8" : 27.710882523148147,
+      "max8" : 98,
+      "p99_8" : 56,
+      "percentChannelsOver1" : 90.962818287037038,
+      "rmse8" : 33.274818257844665
+    },
+    "imageIOSize" : [
+      720,
+      960
+    ],
+    "rawBoostOff" : {
+      "mae8" : 2.672711226851852,
+      "max8" : 58,
+      "p99_8" : 14,
+      "percentChannelsOver1" : 55.773292824074069,
+      "rmse8" : 3.952699450695798
+    },
+    "rawDefault" : {
+      "mae8" : 27.711493055555554,
+      "max8" : 98,
+      "p99_8" : 56,
+      "percentChannelsOver1" : 90.96894290123457,
+      "rmse8" : 33.274965086452454
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 27.793494888117284,
+      "max8" : 68,
+      "p99_8" : 56,
+      "percentChannelsOver1" : 91.10136959876543,
+      "rmse8" : 33.315918389163848
+    },
+    "rawNeutral" : {
+      "mae8" : 2.7141141010802468,
+      "max8" : 18,
+      "p99_8" : 14,
+      "percentChannelsOver1" : 54.792293595679013,
+      "rmse8" : 4.0657921726906245
+    }
+  },
+  {
+    "file" : "developed-edited_scene-neutral.dng",
+    "imageIO" : {
+      "mae8" : 0.87325424382716055,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.488715277777775,
+      "rmse8" : 1.5877594081823621
+    },
+    "imageIOSize" : [
+      720,
+      960
+    ],
+    "rawBoostOff" : {
+      "mae8" : 0.13264612268518519,
+      "max8" : 60,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 2.312451774691358,
+      "rmse8" : 0.78892953973903113
+    },
+    "rawDefault" : {
+      "mae8" : 0.84754677854938276,
+      "max8" : 58,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 27.22284915123457,
+      "rmse8" : 1.5729703203996013
+    },
+    "rawDefaults" : {
+      "baselineExposure" : 0,
+      "boost" : 1,
+      "decoder" : "8.dng",
+      "exposure" : 0,
+      "gamutMapping" : true,
+      "localToneMap" : 0
+    },
+    "rawGamutOff" : {
+      "mae8" : 0.80659239969135799,
+      "max8" : 18,
+      "p99_8" : 5,
+      "percentChannelsOver1" : 26.580246913580247,
+      "rmse8" : 1.4942156345903763
+    },
+    "rawNeutral" : {
+      "mae8" : 0.088431712962962969,
+      "max8" : 18,
+      "p99_8" : 3,
+      "percentChannelsOver1" : 1.5920138888888891,
+      "rmse8" : 0.60154764391628579
+    }
+  }
+]

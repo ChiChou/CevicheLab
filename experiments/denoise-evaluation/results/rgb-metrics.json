@@ -1,0 +1,229 @@
+{
+  "scope": "768px native-resolution crops, full-resolution ImageIO decode, no clean ground truth",
+  "models": {
+    "rawnind-linear": {
+      "loadSeconds": 0.058039584022480994,
+      "backend": "ONNX Runtime CPU, 4 threads; FP32",
+      "tile": 512,
+      "halo": 64
+    },
+    "treenet-light": {
+      "loadSeconds": 3.163399750017561,
+      "backend": "ONNX Runtime CPU, 4 threads; FP16 model",
+      "tile": 256,
+      "halo": 32
+    },
+    "nafnet": {
+      "loadSeconds": 28.917298499960452,
+      "backend": "Core ML ALL, FP16 graph",
+      "tile": 512,
+      "halo": 32
+    }
+  },
+  "cases": [
+    {
+      "model": "rawnind-linear",
+      "file": "DSC00032",
+      "iso": 640,
+      "rois": [
+        [
+          "sky",
+          3000,
+          1000
+        ],
+        [
+          "mountain",
+          1000,
+          2100
+        ],
+        [
+          "water",
+          3500,
+          3400
+        ],
+        [
+          "foreground",
+          5100,
+          4400
+        ]
+      ],
+      "size": 768,
+      "gain": -3.1866253709400507e-10,
+      "inferenceSeconds": 29.722512708045542,
+      "predictionCount": 16,
+      "firstTileSeconds": 0.859401291992981,
+      "medianTileSeconds": 1.8377509170095436,
+      "finite": true
+    },
+    {
+      "model": "rawnind-linear",
+      "file": "DSC00396",
+      "iso": 8000,
+      "rois": [
+        [
+          "stars",
+          1400,
+          600
+        ],
+        [
+          "aurora",
+          2900,
+          2000
+        ],
+        [
+          "window",
+          350,
+          3100
+        ],
+        [
+          "dark-sky",
+          3700,
+          900
+        ]
+      ],
+      "size": 768,
+      "gain": -3.2029084372127005e-10,
+      "inferenceSeconds": 66.9422975020716,
+      "predictionCount": 16,
+      "firstTileSeconds": 5.976126958034001,
+      "medianTileSeconds": 3.8709691670374013,
+      "finite": true
+    },
+    {
+      "model": "treenet-light",
+      "file": "DSC00032",
+      "iso": 640,
+      "rois": [
+        [
+          "sky",
+          3000,
+          1000
+        ],
+        [
+          "mountain",
+          1000,
+          2100
+        ],
+        [
+          "water",
+          3500,
+          3400
+        ],
+        [
+          "foreground",
+          5100,
+          4400
+        ]
+      ],
+      "size": 768,
+      "gain": 1.0,
+      "inferenceSeconds": 137.0841689161607,
+      "predictionCount": 64,
+      "firstTileSeconds": 1.8086553330067545,
+      "medianTileSeconds": 1.484177374979481,
+      "finite": true
+    },
+    {
+      "model": "treenet-light",
+      "file": "DSC00396",
+      "iso": 8000,
+      "rois": [
+        [
+          "stars",
+          1400,
+          600
+        ],
+        [
+          "aurora",
+          2900,
+          2000
+        ],
+        [
+          "window",
+          350,
+          3100
+        ],
+        [
+          "dark-sky",
+          3700,
+          900
+        ]
+      ],
+      "size": 768,
+      "gain": 1.0,
+      "inferenceSeconds": 41.67955250327941,
+      "predictionCount": 64,
+      "firstTileSeconds": 0.5462864590226673,
+      "medianTileSeconds": 0.5555756670073606,
+      "finite": true
+    },
+    {
+      "model": "nafnet",
+      "file": "DSC00032",
+      "iso": 640,
+      "rois": [
+        [
+          "sky",
+          3000,
+          1000
+        ],
+        [
+          "mountain",
+          1000,
+          2100
+        ],
+        [
+          "water",
+          3500,
+          3400
+        ],
+        [
+          "foreground",
+          5100,
+          4400
+        ]
+      ],
+      "size": 768,
+      "gain": 1.0,
+      "inferenceSeconds": 5.728732499992475,
+      "predictionCount": 16,
+      "firstTileSeconds": 0.34307962498860434,
+      "medianTileSeconds": 0.36719812505180016,
+      "finite": true
+    },
+    {
+      "model": "nafnet",
+      "file": "DSC00396",
+      "iso": 8000,
+      "rois": [
+        [
+          "stars",
+          1400,
+          600
+        ],
+        [
+          "aurora",
+          2900,
+          2000
+        ],
+        [
+          "window",
+          350,
+          3100
+        ],
+        [
+          "dark-sky",
+          3700,
+          900
+        ]
+      ],
+      "size": 768,
+      "gain": 1.0,
+      "inferenceSeconds": 5.4634738330496475,
+      "predictionCount": 16,
+      "firstTileSeconds": 0.28907237498788163,
+      "medianTileSeconds": 0.3659330829977989,
+      "finite": true
+    }
+  ]
+}

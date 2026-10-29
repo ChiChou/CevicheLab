@@ -1,0 +1,46 @@
+{
+  "torchSeconds": 8.414202957996167,
+  "inputRange": [
+    0.0,
+    0.9999999403953552
+  ],
+  "torchRange": [
+    -0.5398322343826294,
+    1.517507791519165
+  ],
+  "results": [
+    {
+      "computeUnits": "ALL",
+      "seconds": 0.3321984999929555,
+      "meanError": 0.01545028854161501,
+      "maxError": 0.09379938244819641,
+      "finite": true,
+      "range": [
+        -0.560546875,
+        1.525390625
+      ]
+    },
+    {
+      "computeUnits": "CPU_ONLY",
+      "seconds": 2.7556320410221815,
+      "meanError": 0.01173634547740221,
+      "maxError": 0.08024843037128448,
+      "finite": true,
+      "range": [
+        -0.5498046875,
+        1.53125
+      ]
+    },
+    {
+      "computeUnits": "CPU_AND_GPU",
+      "seconds": 15.644113124988507,
+      "meanError": 0.00248157512396574,
+      "maxError": 0.016908228397369385,
+      "finite": true,
+      "range": [
+        -0.54248046875,
+        1.5224609375
+      ]
+    }
+  ]
+}

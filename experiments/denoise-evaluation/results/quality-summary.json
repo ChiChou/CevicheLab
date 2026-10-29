@@ -1,0 +1,1034 @@
+{
+  "note": "No noise-free reference. High-pass MAD measures remaining small-scale variation, including texture; lower is not automatically better.",
+  "rows": [
+    {
+      "file": "DSC00032",
+      "region": "sky",
+      "model": "input",
+      "lumaHighpassMAD8": 0.8990187072847714,
+      "chromaRGHighpassMAD8": 0.1022772267460823,
+      "meanLinearRGB": [
+        0.07846935093402863,
+        0.07909337431192398,
+        0.15051111578941345
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "sky",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 0.0580049226864804,
+      "chromaRGHighpassMAD8": 0.04638497903943062,
+      "meanLinearRGB": [
+        0.07854633033275604,
+        0.0788990780711174,
+        0.1501210629940033
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "sky",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.39516765770426937,
+      "chromaRGHighpassMAD8": 0.5653658509254456,
+      "meanLinearRGB": [
+        0.07678815722465515,
+        0.08069702982902527,
+        0.1503182053565979
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "sky",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.37358351659098155,
+      "chromaRGHighpassMAD8": 0.26681312918663025,
+      "meanLinearRGB": [
+        0.07831063121557236,
+        0.07919961959123611,
+        0.15019507706165314
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "mountain",
+      "model": "input",
+      "lumaHighpassMAD8": 0.9520252927168608,
+      "chromaRGHighpassMAD8": 0.17605182528495789,
+      "meanLinearRGB": [
+        0.03391711413860321,
+        0.0323278047144413,
+        0.05533442273736
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "mountain",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 0.08299805647316447,
+      "chromaRGHighpassMAD8": 0.08930868655443192,
+      "meanLinearRGB": [
+        0.03400176763534546,
+        0.03227138891816139,
+        0.05513947829604149
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "mountain",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.45226845395790843,
+      "chromaRGHighpassMAD8": 0.8853046298027039,
+      "meanLinearRGB": [
+        0.03343869373202324,
+        0.03264886885881424,
+        0.05539356544613838
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "mountain",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.3745406741091861,
+      "chromaRGHighpassMAD8": 0.33335015177726746,
+      "meanLinearRGB": [
+        0.03346371650695801,
+        0.03221122920513153,
+        0.055033281445503235
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "water",
+      "model": "input",
+      "lumaHighpassMAD8": 0.9206557375174329,
+      "chromaRGHighpassMAD8": 0.10393018275499344,
+      "meanLinearRGB": [
+        0.02125716023147106,
+        0.018760455772280693,
+        0.03026835434138775
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "water",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 0.054788248611997756,
+      "chromaRGHighpassMAD8": 0.048462044447660446,
+      "meanLinearRGB": [
+        0.021324358880519867,
+        0.018744630739092827,
+        0.030300792306661606
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "water",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.44322448302414186,
+      "chromaRGHighpassMAD8": 0.5291141867637634,
+      "meanLinearRGB": [
+        0.021037911996245384,
+        0.018923863768577576,
+        0.030542101711034775
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "water",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.4484863006857844,
+      "chromaRGHighpassMAD8": 0.22776514291763306,
+      "meanLinearRGB": [
+        0.02072964794933796,
+        0.018506404012441635,
+        0.029654569923877716
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "foreground",
+      "model": "input",
+      "lumaHighpassMAD8": 0.684526671882812,
+      "chromaRGHighpassMAD8": 0.06947575509548187,
+      "meanLinearRGB": [
+        0.0062537966296076775,
+        0.005881724879145622,
+        0.01077989861369133
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "foreground",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 0.08703753474707532,
+      "chromaRGHighpassMAD8": 0.13982555270195007,
+      "meanLinearRGB": [
+        0.006201290991157293,
+        0.005861511453986168,
+        0.010738564655184746
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "foreground",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.32420114701936076,
+      "chromaRGHighpassMAD8": 0.402981162071228,
+      "meanLinearRGB": [
+        0.006232816260308027,
+        0.005919629707932472,
+        0.010987352579832077
+      ]
+    },
+    {
+      "file": "DSC00032",
+      "region": "foreground",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.2404512666900641,
+      "chromaRGHighpassMAD8": 0.18797679245471954,
+      "meanLinearRGB": [
+        0.0060084727592766285,
+        0.005785027053207159,
+        0.010603169910609722
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "input",
+      "lumaHighpassMAD8": 1.7121515840785364,
+      "chromaRGHighpassMAD8": 0.1803388148546219,
+      "meanLinearRGB": [
+        0.003938311245292425,
+        0.0032121797557920218,
+        0.0029738727025687695
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 14.642789010016685,
+      "chromaRGHighpassMAD8": 14.888643264770508,
+      "meanLinearRGB": [
+        0.11298903822898865,
+        0.13824212551116943,
+        0.13259874284267426
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.8309858146058514,
+      "chromaRGHighpassMAD8": 0.8314326405525208,
+      "meanLinearRGB": [
+        0.003928490448743105,
+        0.0032028965651988983,
+        0.00298935454338789
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.27393006475461806,
+      "chromaRGHighpassMAD8": 0.15725679695606232,
+      "meanLinearRGB": [
+        0.0035461324732750654,
+        0.003029881976544857,
+        0.0025721522979438305
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "lightroom",
+      "lumaHighpassMAD8": 1.6015151419805278,
+      "chromaRGHighpassMAD8": 6.2408833503723145,
+      "meanLinearRGB": [
+        0.0016980923246592283,
+        0.0014606850454583764,
+        0.0011723700445145369
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "bayer",
+      "lumaHighpassMAD8": 0.1872098247670646,
+      "chromaRGHighpassMAD8": 0.5538689494132996,
+      "meanLinearRGB": [
+        0.0028072157874703407,
+        0.0015994891291484237,
+        0.0018216829048469663
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "pmrid",
+      "lumaHighpassMAD8": 0.44443421293746893,
+      "chromaRGHighpassMAD8": 0.05048348382115364,
+      "meanLinearRGB": [
+        0.0026790464762598276,
+        0.0029700573068112135,
+        0.002123942133039236
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "stars",
+      "model": "mosaic",
+      "lumaHighpassMAD8": 1.76287680996422,
+      "chromaRGHighpassMAD8": 0.1959260255098343,
+      "meanLinearRGB": [
+        0.0038545997813344,
+        0.0031649472657591105,
+        0.002957054413855076
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "input",
+      "lumaHighpassMAD8": 1.7575541498601615,
+      "chromaRGHighpassMAD8": 0.4360790252685547,
+      "meanLinearRGB": [
+        0.021923696622252464,
+        0.035330209881067276,
+        0.011464789509773254
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 0.4719084316655595,
+      "chromaRGHighpassMAD8": 0.11324772238731384,
+      "meanLinearRGB": [
+        0.02211710624396801,
+        0.03540096431970596,
+        0.011647243984043598
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.7149837463976029,
+      "chromaRGHighpassMAD8": 1.1955888271331787,
+      "meanLinearRGB": [
+        0.021322933956980705,
+        0.03532322123646736,
+        0.011409544385969639
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.29808203147982054,
+      "chromaRGHighpassMAD8": 0.2003733217716217,
+      "meanLinearRGB": [
+        0.021353652700781822,
+        0.03476840257644653,
+        0.010980036109685898
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "lightroom",
+      "lumaHighpassMAD8": 2.3090573323280776,
+      "chromaRGHighpassMAD8": 1.4942251443862915,
+      "meanLinearRGB": [
+        0.017222808673977852,
+        0.026452787220478058,
+        0.007767072878777981
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "bayer",
+      "lumaHighpassMAD8": 0.12260902569060288,
+      "chromaRGHighpassMAD8": 0.35271939635276794,
+      "meanLinearRGB": [
+        0.0223907008767128,
+        0.03213002160191536,
+        0.010057235136628151
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "pmrid",
+      "lumaHighpassMAD8": 0.07823250860733834,
+      "chromaRGHighpassMAD8": 0.06433042138814926,
+      "meanLinearRGB": [
+        0.022585617378354073,
+        0.034143440425395966,
+        0.011190582998096943
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "aurora",
+      "model": "mosaic",
+      "lumaHighpassMAD8": 1.7503168001117286,
+      "chromaRGHighpassMAD8": 0.35336944460868835,
+      "meanLinearRGB": [
+        0.0231491569429636,
+        0.0342152863740921,
+        0.011513951234519482
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "input",
+      "lumaHighpassMAD8": 1.500445535149987,
+      "chromaRGHighpassMAD8": 0.11189248412847519,
+      "meanLinearRGB": [
+        0.01887223683297634,
+        0.020606694743037224,
+        0.023543721064925194
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 0.35637684683189125,
+      "chromaRGHighpassMAD8": 0.08179141581058502,
+      "meanLinearRGB": [
+        0.018672959879040718,
+        0.020417558029294014,
+        0.023396458476781845
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.7397880764534632,
+      "chromaRGHighpassMAD8": 0.7598347067832947,
+      "meanLinearRGB": [
+        0.018942495808005333,
+        0.020802326500415802,
+        0.023941809311509132
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.3740226535439872,
+      "chromaRGHighpassMAD8": 0.2209550142288208,
+      "meanLinearRGB": [
+        0.017340267077088356,
+        0.019246861338615417,
+        0.022074837237596512
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "lightroom",
+      "lumaHighpassMAD8": 2.1553947917486544,
+      "chromaRGHighpassMAD8": 7.424346446990967,
+      "meanLinearRGB": [
+        0.014010990969836712,
+        0.01571614295244217,
+        0.017751937732100487
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "bayer",
+      "lumaHighpassMAD8": 0.06950333075198936,
+      "chromaRGHighpassMAD8": 0.16401629149913788,
+      "meanLinearRGB": [
+        0.018588516861200333,
+        0.018878160044550896,
+        0.022637462243437767
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "pmrid",
+      "lumaHighpassMAD8": 0.06456009175773274,
+      "chromaRGHighpassMAD8": 0.037349339574575424,
+      "meanLinearRGB": [
+        0.01866399683058262,
+        0.02088535949587822,
+        0.02380507066845894
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "window",
+      "model": "mosaic",
+      "lumaHighpassMAD8": 1.5970107554669282,
+      "chromaRGHighpassMAD8": 0.12355580180883408,
+      "meanLinearRGB": [
+        0.019209470599889755,
+        0.021064091473817825,
+        0.023751581087708473
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "input",
+      "lumaHighpassMAD8": 1.753602185218992,
+      "chromaRGHighpassMAD8": 0.14935772120952606,
+      "meanLinearRGB": [
+        0.003828388871625066,
+        0.0032381766941398382,
+        0.0027356825303286314
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "nafnet",
+      "lumaHighpassMAD8": 29.53736283803331,
+      "chromaRGHighpassMAD8": 22.510210037231445,
+      "meanLinearRGB": [
+        0.08964350819587708,
+        0.08537495881319046,
+        0.08520713448524475
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "rawnind-linear",
+      "lumaHighpassMAD8": 0.8338898882243613,
+      "chromaRGHighpassMAD8": 0.8322283029556274,
+      "meanLinearRGB": [
+        0.0038056240882724524,
+        0.0032410570420324802,
+        0.0027588645461946726
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "treenet-light",
+      "lumaHighpassMAD8": 0.2732025626453245,
+      "chromaRGHighpassMAD8": 0.16384321451187134,
+      "meanLinearRGB": [
+        0.003409624332562089,
+        0.0030432851053774357,
+        0.002338030142709613
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "lightroom",
+      "lumaHighpassMAD8": 1.3445115742270828,
+      "chromaRGHighpassMAD8": 3.6770596504211426,
+      "meanLinearRGB": [
+        0.0016374115366488695,
+        0.001443101791664958,
+        0.0009048389620147645
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "bayer",
+      "lumaHighpassMAD8": 0.20301527240320033,
+      "chromaRGHighpassMAD8": 0.6084674000740051,
+      "meanLinearRGB": [
+        0.0027909858617931604,
+        0.0016758230049163103,
+        0.0016441873740404844
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "pmrid",
+      "lumaHighpassMAD8": 0.4486382272955953,
+      "chromaRGHighpassMAD8": 0.047370653599500656,
+      "meanLinearRGB": [
+        0.00268482300452888,
+        0.0030870046466588974,
+        0.001962450798600912
+      ]
+    },
+    {
+      "file": "DSC00396",
+      "region": "dark-sky",
+      "model": "mosaic",
+      "lumaHighpassMAD8": 1.7571455351585128,
+      "chromaRGHighpassMAD8": 0.14717325568199158,
+      "meanLinearRGB": [
+        0.0038459752686321735,
+        0.0032811416313052177,
+        0.00276318215765059
+      ]
+    }
+  ],
+  "features": {
+    "count": 107,
+    "positionsYX": [
+      [
+        23,
+        497
+      ],
+      [
+        25,
+        295
+      ],
+      [
+        36,
+        479
+      ],
+      [
+        39,
+        110
+      ],
+      [
+        47,
+        468
+      ],
+      [
+        49,
+        374
+      ],
+      [
+        50,
+        340
+      ],
+      [
+        54,
+        111
+      ],
+      [
+        57,
+        232
+      ],
+      [
+        58,
+        310
+      ],
+      [
+        59,
+        278
+      ],
+      [
+        79,
+        234
+      ],
+      [
+        83,
+        468
+      ],
+      [
+        85,
+        262
+      ],
+      [
+        112,
+        291
+      ],
+      [
+        116,
+        329
+      ],
+      [
+        120,
+        378
+      ],
+      [
+        121,
+        356
+      ],
+      [
+        124,
+        548
+      ],
+      [
+        125,
+        170
+      ],
+      [
+        126,
+        215
+      ],
+      [
+        139,
+        630
+      ],
+      [
+        141,
+        399
+      ],
+      [
+        158,
+        119
+      ],
+      [
+        169,
+        406
+      ],
+      [
+        180,
+        368
+      ],
+      [
+        182,
+        356
+      ],
+      [
+        186,
+        255
+      ],
+      [
+        186,
+        551
+      ],
+      [
+        191,
+        309
+      ],
+      [
+        195,
+        280
+      ],
+      [
+        197,
+        427
+      ],
+      [
+        199,
+        170
+      ],
+      [
+        199,
+        194
+      ],
+      [
+        199,
+        223
+      ],
+      [
+        206,
+        289
+      ],
+      [
+        210,
+        221
+      ],
+      [
+        210,
+        512
+      ],
+      [
+        211,
+        71
+      ],
+      [
+        215,
+        234
+      ],
+      [
+        219,
+        201
+      ],
+      [
+        235,
+        248
+      ],
+      [
+        237,
+        286
+      ],
+      [
+        240,
+        272
+      ],
+      [
+        241,
+        605
+      ],
+      [
+        247,
+        322
+      ],
+      [
+        251,
+        263
+      ],
+      [
+        252,
+        85
+      ],
+      [
+        271,
+        530
+      ],
+      [
+        276,
+        101
+      ],
+      [
+        276,
+        481
+      ],
+      [
+        289,
+        559
+      ],
+      [
+        294,
+        518
+      ],
+      [
+        307,
+        202
+      ],
+      [
+        307,
+        310
+      ],
+      [
+        307,
+        512
+      ],
+      [
+        322,
+        539
+      ],
+      [
+        325,
+        218
+      ],
+      [
+        327,
+        87
+      ],
+      [
+        328,
+        753
+      ],
+      [
+        341,
+        691
+      ],
+      [
+        349,
+        749
+      ],
+      [
+        380,
+        431
+      ],
+      [
+        383,
+        614
+      ],
+      [
+        384,
+        413
+      ],
+      [
+        387,
+        382
+      ],
+      [
+        403,
+        142
+      ],
+      [
+        411,
+        502
+      ],
+      [
+        420,
+        754
+      ],
+      [
+        421,
+        699
+      ],
+      [
+        451,
+        78
+      ],
+      [
+        461,
+        520
+      ],
+      [
+        478,
+        363
+      ],
+      [
+        481,
+        499
+      ],
+      [
+        487,
+        519
+      ],
+      [
+        492,
+        257
+      ],
+      [
+        496,
+        235
+      ],
+      [
+        498,
+        294
+      ],
+      [
+        513,
+        244
+      ],
+      [
+        515,
+        546
+      ],
+      [
+        520,
+        68
+      ],
+      [
+        523,
+        179
+      ],
+      [
+        525,
+        331
+      ],
+      [
+        526,
+        110
+      ],
+      [
+        529,
+        117
+      ],
+      [
+        546,
+        607
+      ],
+      [
+        547,
+        618
+      ],
+      [
+        552,
+        430
+      ],
+      [
+        561,
+        296
+      ],
+      [
+        595,
+        182
+      ],
+      [
+        606,
+        515
+      ],
+      [
+        607,
+        373
+      ],
+      [
+        629,
+        544
+      ],
+      [
+        659,
+        163
+      ],
+      [
+        672,
+        470
+      ],
+      [
+        674,
+        606
+      ],
+      [
+        676,
+        341
+      ],
+      [
+        678,
+        193
+      ],
+      [
+        680,
+        375
+      ],
+      [
+        687,
+        609
+      ],
+      [
+        713,
+        446
+      ],
+      [
+        718,
+        471
+      ],
+      [
+        724,
+        633
+      ],
+      [
+        729,
+        111
+      ],
+      [
+        737,
+        292
+      ],
+      [
+        746,
+        71
+      ],
+      [
+        754,
+        724
+      ]
+    ],
+    "thresholdLinear": 0.015,
+    "note": "Reference-associated bright features, not verified astronomical objects. Ratios also include rendering/demosaic changes.",
+    "models": {
+      "lightroom": {
+        "medianContrastRelativeToLightroom": 1.0,
+        "countBelowHalfLightroomContrast": 0
+      },
+      "bayer": {
+        "medianContrastRelativeToLightroom": 0.5235687934446088,
+        "countBelowHalfLightroomContrast": 46
+      },
+      "pmrid": {
+        "medianContrastRelativeToLightroom": 0.4323583969209485,
+        "countBelowHalfLightroomContrast": 61
+      },
+      "mosaic": {
+        "medianContrastRelativeToLightroom": 0.5347050202986493,
+        "countBelowHalfLightroomContrast": 47
+      }
+    }
+  }
+}

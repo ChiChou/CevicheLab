@@ -1,0 +1,64 @@
+{
+  "purpose": "Synthetic conversion equivalence and tile timing only; no denoising quality ranking",
+  "chip": "Apple M4",
+  "os": "27.2",
+  "upstreamCommit": "8ebb9e8e96559881dee957f34243933c5beb77dd",
+  "checkpointSHA256": "9361614f3514d27351d81909f2215c0fdc38619c0288d936b7266485ac106c14",
+  "parameters": 1031908,
+  "packedTile": [
+    256,
+    256
+  ],
+  "equivalentSensorRegion": [
+    512,
+    512
+  ],
+  "torch": "2.8.0",
+  "coremltools": "8.3.0",
+  "precision": "FP16 weights/compute graph; float32 input and output",
+  "packageBytes": 2200271,
+  "results": [
+    {
+      "requestedComputeUnits": "ALL",
+      "finite": true,
+      "coldPredictionSeconds": 0.05828079197090119,
+      "warmMedianSeconds": 0.0028634999762289226,
+      "warmPredictionSeconds": [
+        0.005430374993011355,
+        0.0030064170132391155,
+        0.002797375025693327,
+        0.00282491696998477,
+        0.0028634999762289226
+      ],
+      "maeNormalizedRaw": 2.302960456290748e-05,
+      "maxErrorNormalizedRaw": 0.00012227892875671387,
+      "shape": [
+        1,
+        4,
+        256,
+        256
+      ]
+    },
+    {
+      "requestedComputeUnits": "CPU_ONLY",
+      "finite": true,
+      "coldPredictionSeconds": 0.04205712501425296,
+      "warmMedianSeconds": 0.03409141697920859,
+      "warmPredictionSeconds": [
+        0.03434454195667058,
+        0.03622108302079141,
+        0.03395337495021522,
+        0.03409141697920859,
+        0.034058290999382734
+      ],
+      "maeNormalizedRaw": 6.308231240836903e-05,
+      "maxErrorNormalizedRaw": 0.0004394352436065674,
+      "shape": [
+        1,
+        4,
+        256,
+        256
+      ]
+    }
+  ]
+}

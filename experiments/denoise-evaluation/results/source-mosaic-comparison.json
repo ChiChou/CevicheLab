@@ -1,0 +1,7 @@
+{
+  "comparison": "Decoded sensor values in overlapping visible region; not original-file byte identity",
+  "width": 7968,
+  "height": 5320,
+  "maxDifference": 245,
+  "differentSamples": 74
+}

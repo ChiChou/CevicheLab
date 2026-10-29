@@ -1,0 +1,48 @@
+{
+  "model": "PMRID",
+  "source": "DSC00396",
+  "backend": "Core ML ALL, FP16 graph",
+  "noiseProfileRGB": [
+    [
+      0.0014704188601510643,
+      2.4843890629924908e-06
+    ],
+    [
+      0.0014645891508354315,
+      2.429093869093207e-06
+    ],
+    [
+      0.0014458354314488442,
+      2.4867689272404753e-06
+    ]
+  ],
+  "profileSource": "NoiseProfile in original mosaic IFD of matching Lightroom DNG; not independently calibrated",
+  "anchorNormalized": [
+    0.0010093131699687174,
+    3.239659066567647e-06
+  ],
+  "normalizationScale": [
+    0.68641197681427,
+    0.6891442537307739,
+    0.6891442537307739,
+    0.6980829834938049
+  ],
+  "normalizationOffset": [
+    -0.002050018636509776,
+    -0.0020667859353125095,
+    -0.0020667859353125095,
+    -0.0020090960897505283
+  ],
+  "width": 7968,
+  "height": 5320,
+  "tilePacked": 256,
+  "haloPacked": 32,
+  "predictionCount": 294,
+  "loadSeconds": 2.8171801249845885,
+  "inferenceSeconds": 1.7148415066185407,
+  "totalInferenceAndStitchSeconds": 2.563277958019171,
+  "medianTileSeconds": 0.005527209024876356,
+  "finite": true,
+  "minimum": -0.03399963304400444,
+  "maximum": 1.0849285125732422
+}

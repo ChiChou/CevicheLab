@@ -1,0 +1,15 @@
+{
+  "file": "DSC00396-rawnind-bayer.dng",
+  "template": "DSC00396-Enhanced-NR.dng",
+  "payload": "camera-native linear RGB from Bayer model",
+  "black": 8192,
+  "white": 40960,
+  "scale": 32768,
+  "minimum": -0.07886660844087601,
+  "maximum": 1.1802256107330322,
+  "clippedSamples": 0,
+  "compression": "none",
+  "note": "Removed mosaic opcodes; new image is already denoised/demosaiced. Unused original payloads remain.",
+  "idealQuantizationHalfStep": 1.52587890625e-05,
+  "measuredMaxQuantizationError": 1.531839370727539e-05
+}

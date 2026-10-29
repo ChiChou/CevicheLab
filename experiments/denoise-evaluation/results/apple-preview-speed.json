@@ -1,0 +1,89 @@
+[
+  {
+    "dimensions" : [
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ]
+    ],
+    "file" : "DSC00396.ARW",
+    "openSeconds" : 0.71021029201801866,
+    "rendersSeconds" : [
+      1.3002782500116155,
+      0.027832083986140788,
+      0.021507875004317611,
+      0.019232625025324523
+    ],
+    "scope" : "CIRAWFilter + CIContext, 2200px, exposure changes. Excludes Ceviche masks\/looks\/histogram\/UI."
+  },
+  {
+    "dimensions" : [
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ]
+    ],
+    "file" : "DSC00032.ARW",
+    "openSeconds" : 0.34136225003749132,
+    "rendersSeconds" : [
+      1.2103447919944301,
+      0.02139766700565815,
+      0.021762916003353894,
+      0.01965645799646154
+    ],
+    "scope" : "CIRAWFilter + CIContext, 2200px, exposure changes. Excludes Ceviche masks\/looks\/histogram\/UI."
+  },
+  {
+    "dimensions" : [
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ],
+      [
+        2200,
+        1468
+      ]
+    ],
+    "file" : "DSC00396-pmrid.dng",
+    "openSeconds" : 0.35179149999748915,
+    "rendersSeconds" : [
+      0.54059504199540243,
+      0.016697542043402791,
+      0.019593250006437302,
+      0.019870666961651295
+    ],
+    "scope" : "CIRAWFilter + CIContext, 2200px, exposure changes. Excludes Ceviche masks\/looks\/histogram\/UI."
+  }
+]

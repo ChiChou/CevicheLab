@@ -1,0 +1,102 @@
+[
+  {
+    "brightPatches" : [
+      {
+        "color" : "red",
+        "dng" : [
+          255,
+          0,
+          0
+        ],
+        "reference" : [
+          255,
+          0,
+          0
+        ]
+      },
+      {
+        "color" : "green",
+        "dng" : [
+          7,
+          243,
+          0
+        ],
+        "reference" : [
+          0,
+          255,
+          2
+        ]
+      },
+      {
+        "color" : "blue",
+        "dng" : [
+          86,
+          85,
+          191
+        ],
+        "reference" : [
+          27,
+          0,
+          255
+        ]
+      },
+      {
+        "color" : "cyan",
+        "dng" : [
+          107,
+          223,
+          232
+        ],
+        "reference" : [
+          0,
+          255,
+          255
+        ]
+      },
+      {
+        "color" : "magenta",
+        "dng" : [
+          213,
+          118,
+          212
+        ],
+        "reference" : [
+          255,
+          3,
+          255
+        ]
+      },
+      {
+        "color" : "yellow",
+        "dng" : [
+          254,
+          246,
+          0
+        ],
+        "reference" : [
+          254,
+          255,
+          1
+        ]
+      }
+    ],
+    "fixture" : "chart",
+    "screenComparison" : {
+      "mae8" : 8.5227344654224542,
+      "max8" : 117,
+      "p99_8" : 115,
+      "percentChannelsOver1" : 37.375895182291671,
+      "rmse8" : 23.691156840749255
+    }
+  },
+  {
+    "fixture" : "edited",
+    "screenComparison" : {
+      "mae8" : 0.9113454861111111,
+      "max8" : 59,
+      "p99_8" : 6,
+      "percentChannelsOver1" : 24.886489679783953,
+      "rmse8" : 1.6664967361287504
+    }
+  }
+]

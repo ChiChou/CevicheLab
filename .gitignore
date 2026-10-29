@@ -1,0 +1,77 @@
+# macOS / editors
+.DS_Store
+._*
+.idea/
+.vscode/
+*.swp
+xcuserdata/
+
+# Swift, native build products and temporary work
+.build/
+.swiftpm/
+build/
+dist/
+DerivedData/
+*.o
+*.a
+*.dylib
+*.dSYM/
+*.log
+tmp/
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.uv-cache/
+*.egg-info/
+
+# Local experiment inputs, clones, models and generated artifacts
+# Small reviewed evidence in experiments/*/results remains versioned.
+output/
+outputs/
+samples/
+datasets/
+data/
+cache/
+checkpoints/
+weights/
+vendor/
+upstreams/
+*.mlmodel
+*.mlmodelc/
+*.mlpackage/
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.[aA][rR][wW]
+*.[dD][nN][gG]
+*.[cC][rR]2
+*.[cC][rR]3
+*.[nN][eE][fF]
+*.[rR][aA][fF]
+*.[oO][rR][fF]
+*.[rR][wW]2
+*.rgba
+*.rgba32
+*.f32
+*.float4
+*.npy
+*.npz
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+local.config.*

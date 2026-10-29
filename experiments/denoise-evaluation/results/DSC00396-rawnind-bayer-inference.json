@@ -1,0 +1,23 @@
+{
+  "model": "RawNIND Bayer",
+  "backend": "ONNX Runtime CPU, 4 threads, FP32",
+  "source": "DSC00396",
+  "input": "black/white normalized un-white-balanced LibRaw mosaic",
+  "width": 7968,
+  "height": 5320,
+  "tilePacked": 512,
+  "haloPacked": 64,
+  "predictionCount": 77,
+  "gain": 1.1016576451907526e-06,
+  "loadSeconds": 0.3782481660018675,
+  "inferenceSeconds": 277.99861062370474,
+  "totalInferenceAndStitchSeconds": 285.1383173749782,
+  "firstTileSeconds": 6.8032551250071265,
+  "medianTileSeconds": 2.533198021003045,
+  "minimum": -0.07886660844087601,
+  "maximum": 1.1802256107330322,
+  "fractionBelowZero": 3.0101609445299997e-05,
+  "fractionAboveOne": 1.2660290283942789e-06,
+  "finite": true,
+  "onnxSHA256": "da27509dab6a2915da67e988acd86cf71f9d5bbc8d1aa0ed32933578a887b901"
+}

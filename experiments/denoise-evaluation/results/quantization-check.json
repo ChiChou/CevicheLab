@@ -1,0 +1,16 @@
+[
+  {
+    "model": "rawnind-bayer",
+    "width": 7968,
+    "height": 5320,
+    "clippedSamples": 0,
+    "maxMeasuredQuantizationError": 1.531839370727539e-05
+  },
+  {
+    "model": "pmrid",
+    "width": 7968,
+    "height": 5320,
+    "clippedSamples": 0,
+    "maxMeasuredQuantizationError": 1.531839370727539e-05
+  }
+]

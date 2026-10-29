@@ -1,0 +1,17 @@
+{
+  "aperture" : 13,
+  "camera" : "ILCE-7RM3",
+  "decodeAndWriteSeconds" : 17.544159889221191,
+  "exposureSeconds" : 0.033333333333333333,
+  "file" : "DSC00032.ARW",
+  "height" : 5304,
+  "imageCount" : 1,
+  "iso" : [
+    640
+  ],
+  "orientation" : 1,
+  "outputColorSpace" : "extended linear Rec.2020",
+  "sourceBitsPerComponent" : 16,
+  "sourceColorSpace" : "kCGColorSpaceDisplayP3",
+  "width" : 7952
+}

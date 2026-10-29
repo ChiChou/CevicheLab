@@ -1,0 +1,20 @@
+[
+  {
+    "region": "stars",
+    "meanNormalizedRawError": 5.606504601018969e-06,
+    "maxNormalizedRawError": 0.0005687635857611895,
+    "finite": true
+  },
+  {
+    "region": "aurora",
+    "meanNormalizedRawError": 5.6501603467040695e-06,
+    "maxNormalizedRawError": 0.0003451193915680051,
+    "finite": true
+  },
+  {
+    "region": "window",
+    "meanNormalizedRawError": 5.813222742290236e-06,
+    "maxNormalizedRawError": 8.418662037001923e-05,
+    "finite": true
+  }
+]

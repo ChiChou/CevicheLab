@@ -1,0 +1,17 @@
+{
+  "aperture" : 4.5,
+  "camera" : "ILCE-7RM3",
+  "decodeAndWriteSeconds" : 53.4462970495224,
+  "exposureSeconds" : 2.5,
+  "file" : "DSC00396-Enhanced-NR-enhanced-only.dng",
+  "height" : 5304,
+  "imageCount" : 1,
+  "iso" : [
+    8000
+  ],
+  "orientation" : 1,
+  "outputColorSpace" : "extended linear Rec.2020",
+  "sourceBitsPerComponent" : 16,
+  "sourceColorSpace" : "kCGColorSpaceDisplayP3",
+  "width" : 7952
+}

@@ -1,0 +1,11 @@
+{
+  "stride": 4,
+  "default_vs_mosaic": {
+    "meanAbsError": 0.0,
+    "maxAbsError": 0.0
+  },
+  "default_vs_enhanced": {
+    "meanAbsError": 0.0043668304570019245,
+    "maxAbsError": 0.5665561556816101
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-27",
+  "hardware": "Apple M4",
+  "OS": "macOS 27.2",
+  "sources": [
+    {
+      "file": "DSC00032.ARW",
+      "bytes": 42998272,
+      "sha256": "e97b214a592e24df04c00857b7fa3305ca813be79683133ea8b066bb15668330"
+    },
+    {
+      "file": "DSC00396.ARW",
+      "bytes": 43186688,
+      "sha256": "e2bf3e051a2fa300ef8eb2a343af9a582176f3c1d0ce5aead2b792c6311e0e16"
+    },
+    {
+      "file": "DSC00396-Enhanced-NR.dng",
+      "bytes": 109205980,
+      "sha256": "506e8dc916002954131519d96b585427530239bb98a58096b3cd3f82988c41c9"
+    }
+  ],
+  "models": [
+    {
+      "name": "RawNIND package",
+      "file": "rawnind.dtmodel",
+      "bytes": 57700134,
+      "sha256": "d71b5f1e727c85a359e6f74dca9e2016c9d8fc3e2f7ac3e9b347d80ceca969af",
+      "source": "https://github.com/darktable-org/darktable-ai/releases/tag/release-5.6.0"
+    },
+    {
+      "name": "RawNIND Bayer",
+      "file": "model_bayer.onnx",
+      "bytes": 31056425,
+      "sha256": "da27509dab6a2915da67e988acd86cf71f9d5bbc8d1aa0ed32933578a887b901",
+      "source": "https://github.com/trougnouf/rawnind_jddc"
+    },
+    {
+      "name": "RawNIND linear",
+      "file": "model_linear.onnx",
+      "bytes": 31053823,
+      "sha256": "df957efadcc152c007d5d3b0917bdff9e41c0d4a0efe56584ef30b36393cd181",
+      "source": "https://github.com/trougnouf/rawnind_jddc"
+    },
+    {
+      "name": "TreeNet Light",
+      "file": "treenet-light.onnx",
+      "bytes": 1510483,
+      "sha256": "082612f3de352af7353cb3de893f8dd876b8cb942c53cf5c5f8ab4ae2cc9bf78",
+      "source": "https://github.com/rymuelle/RawForge/releases/tag/onnx_v1.0.0"
+    },
+    {
+      "name": "NAFNet SIDD32",
+      "file": "nafnet.pth",
+      "bytes": 116861841,
+      "sha256": "89c70e808d1783b6c07911306e106aaf0d4f7f3da8c61078b99ff7f8929a26f4",
+      "source": "https://github.com/megvii-research/NAFNet/blob/main/readme.md"
+    },
+    {
+      "name": "PMRID",
+      "file": "torch_pretrained.ckp",
+      "bytes": 4183200,
+      "sha256": "9361614f3514d27351d81909f2215c0fdc38619c0288d936b7266485ac106c14",
+      "source": "https://github.com/MegEngine/PMRID/tree/8ebb9e8e96559881dee957f34243933c5beb77dd"
+    }
+  ]
+}

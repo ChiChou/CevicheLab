@@ -1,3 +1,6 @@
+# Noise-normalization method: MegEngine/PMRID, Apache-2.0.
+# https://github.com/MegEngine/PMRID/blob/8ebb9e8e96559881dee957f34243933c5beb77dd/run_benchmark.py
+# Camera-specific adaptation; see ../../licenses/PMRID-LICENSE.txt and ../../THIRD_PARTY_NOTICES.md.
 """PMRID Bayer evaluation using the matching DNG's source NoiseProfile.
 The camera profile is metadata, not independently measured noise calibration.
 """

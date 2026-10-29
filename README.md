@@ -37,3 +37,9 @@ Most report links into `tools/starstack/output/` refer to local, ignored artifac
 ## Migration and licensing
 
 See [MIGRATION.md](MIGRATION.md) for origin, application dependencies and local cache relocation. The root [AGPL-3.0 license](LICENSE) is preserved from Ceviche. Upstream licenses and notices remain alongside their respective ports, including Unpurple, Chromatic and tetra3. A source-code license does not grant redistribution rights for every model or dataset discussed in the notes. No model weight is distributed here.
+
+## Attribution and references
+
+The complete project license is [GNU AGPL version 3](LICENSE). [NOTICE](NOTICE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) identify included ports, original authors, exact revisions, retained licenses, modifications, external model/tool experiments and unresolved redistribution terms. Third-party notices remain applicable alongside the project license.
+
+[REFERENCES.md](REFERENCES.md) indexes external sources cited throughout the repository and links each one to its local use. Regenerate it with `python3 scripts/update_references.py`; `--check` verifies that it is current. When distributing binaries, include the project license/notice and the applicable upstream notices; keep Swift resource bundles with their executables. Neither a bibliography entry nor a successful local experiment grants redistribution rights to model weights or photographs.

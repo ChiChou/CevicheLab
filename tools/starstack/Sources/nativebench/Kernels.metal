@@ -58,6 +58,9 @@ kernel void morphology(device const uchar *src [[buffer(0)]],device uchar *dst [
         uchar a=src[yy*p.x+xx];v=p.z ? max(v,a) : min(v,a);
     }dst[k]=v;
 }
+// Projection convention follows the tetra3 subset in Catalog.swift.
+// Copyright 2019 the European Space Agency; Apache-2.0 and original Tetra MIT notice.
+// See the bundled tetra3-LICENSE.txt and ../../../../THIRD_PARTY_NOTICES.md.
 kernel void catalog_project(device const float4 *world [[buffer(0)]],device float2 *pixels [[buffer(1)]],
                             constant float *p [[buffer(2)]],uint i [[thread_position_in_grid]]) {
     if(i>=uint(p[0]))return;float3 v=world[i].xyz;

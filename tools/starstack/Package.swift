@@ -12,7 +12,7 @@ let package = Package(
               .executableTarget(name: "starstack", dependencies: ["StarStackCore"]),
               .executableTarget(name: "meteorprep", dependencies: ["StarStackCore"]),
               .executableTarget(name: "meanmetal", dependencies: ["StarStackCore"],resources:[.copy("Mean.metal")]),
-              .executableTarget(name: "nativebench", dependencies: ["StarStackCore"], resources: [.copy("Kernels.metal")]),
+              .executableTarget(name: "nativebench", dependencies: ["StarStackCore"], resources: [.copy("Kernels.metal"), .copy("tetra3-LICENSE.txt")]),
               .testTarget(name: "StarStackCoreTests", dependencies: ["StarStackCore"])],
     swiftLanguageModes: [.v5]
 )

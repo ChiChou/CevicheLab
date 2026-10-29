@@ -1,3 +1,6 @@
+// Noise-normalization method: MegEngine/PMRID, Apache-2.0.
+// https://github.com/MegEngine/PMRID/blob/8ebb9e8e96559881dee957f34243933c5beb77dd/run_benchmark.py
+// Native Swift adaptation; see ../../licenses/PMRID-LICENSE.txt and ../../THIRD_PARTY_NOTICES.md.
 // Native LibRaw + Core ML timing. No Python tensors or intermediate files.
 import Foundation
 import CoreML

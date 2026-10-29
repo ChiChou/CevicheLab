@@ -1,0 +1,29 @@
+CevicheLab
+Experimental photography tools and research, extracted from ChiChou/Ceviche.
+Original project: https://github.com/ChiChou/Ceviche
+
+Original Ceviche/CevicheLab contributions are distributed under the GNU Affero
+General Public License, version 3, in LICENSE. Existing upstream copyrights,
+licenses, conditions and disclaimers remain applicable to their respective
+material; the project license does not replace those notices.
+
+Chromatic: based on Thomas Eboli's MIT-licensed IPOL reference implementation,
+Copyright (c) 2022 Thomas Eboli, of the method by J. Chang, H. Kang and M. G. Kang.
+Full notice: tools/chromatic/LICENSE.upstream
+
+Unpurple: port/adaptation of Martin Jambon's implementation,
+Copyright (c) 2012 Martin Jambon. All rights reserved.
+Full notice: tools/unpurple/LICENSE.upstream
+
+Native catalog experiment: adapted subset of ESA tetra3,
+Copyright 2019 the European Space Agency, Apache-2.0;
+tetra3 retains the original Tetra MIT notice, Copyright (c) 2016 brownj4.
+Full notices: tools/starstack/ThirdParty/tetra3-LICENSE.txt
+
+PMRID experiment: model interface and noise-normalization method follow
+MegEngine/PMRID. The upstream Apache-2.0 license is in
+licenses/PMRID-LICENSE.txt. No network implementation or checkpoint is bundled.
+
+See THIRD_PARTY_NOTICES.md for file-level scope, exact revisions, modification
+descriptions, external experiments, and model/data exclusions. See REFERENCES.md
+for the source index. These summaries do not replace the full license texts.

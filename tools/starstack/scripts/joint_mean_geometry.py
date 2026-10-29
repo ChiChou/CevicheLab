@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# Algorithm reference: Benedikt Bitterli, Star Stacker: Astrophotography with C++11.
+# https://benedikt-bitterli.me/astro/ — independently implemented; no upstream code copied.
+# See ../../../THIRD_PARTY_NOTICES.md for scope and differences.
 """Joint multi-frame camera/stellar fit for the existing five-frame RAW caches."""
 import argparse,json,time
 from pathlib import Path
